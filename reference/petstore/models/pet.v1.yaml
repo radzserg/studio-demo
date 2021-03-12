@@ -23,6 +23,7 @@ properties:
       - available
       - pending
       - sold
+      - prospect
   category:
     $ref: ./category.v1.yaml  
 required:
