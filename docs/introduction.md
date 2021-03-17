@@ -27,3 +27,6 @@ This initial Studio project template was cloned from the [Studio Templates](http
 We plan to add additional sections on Prism (mocking), Spectral (linting), working with the filesystem, Git, and more in the future.
 
 This template includes a couple of example APIs (Petstore and To-dos). You can create a new project, or open another folder on your computer, by clicking the `Project Selector` dropdown in the top left of the Studio UI.
+
+
+### TBC
